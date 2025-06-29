@@ -1,6 +1,7 @@
 # React + Vite
 
 Para ejecutar el proyecto: npm run dev (en la carpeta raiz) 
+Puerto predeterminado: http://localhost:5173
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
